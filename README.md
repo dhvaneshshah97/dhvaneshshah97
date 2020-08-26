@@ -7,7 +7,7 @@
 I'm Dhvanesh Shah, a Computer Science student and an aspirant Full-Stack Web Developer. I love making apps with React. Exploring and developing new apps is what gives me the true happiness.
 
 * 🔭 I’m currently working on my project [Ecommerce Book Shop](https://github.com/dhvaneshshah97/Ecommerce_Frontend)
-* 🌱 I’m currently learning Angular & TypeScript
+* 🌱 I’m currently learning Flutter & React Native
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhvaneshshah97/) | [E-mail](mailto:dhvaneshshah97@gmail.com)
 
 ## Stack I work with 🖥️

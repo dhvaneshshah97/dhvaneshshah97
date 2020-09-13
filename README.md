@@ -6,8 +6,8 @@
 
 I'm Dhvanesh Shah, a Computer Science student and an aspirant Full-Stack Web Developer. I love making apps with React. Exploring and developing new apps is what gives me the true happiness.
 
-* 🔭 I’m currently working on my project [Ecommerce Book Shop](https://github.com/dhvaneshshah97/Ecommerce_Frontend)
-* 🌱 I’m currently learning Flutter & React Native
+* 🔭 I’m currently working on my project [Blog App with Django](https://github.com/dhvaneshshah97/Blog_App_Django)
+* 🌱 I’m currently learning Flutter & Django
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhvaneshshah97/) | [E-mail](mailto:dhvaneshshah97@gmail.com)
 
 ## Stack I work with 🖥️
@@ -23,7 +23,8 @@ I'm Dhvanesh Shah, a Computer Science student and an aspirant Full-Stack Web Dev
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-
+<code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 
 <!--
 **dhvaneshshah97/dhvaneshshah97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

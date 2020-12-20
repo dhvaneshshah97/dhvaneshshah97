@@ -24,7 +24,7 @@ I'm Dhvanesh Shah, a CS Grad student at San Diego State University and an aspira
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img height="40" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg"></code>
+<code><img height="40" src="https://www.appstud.com/wp-content/uploads/2018/03/React-Native-Titre.png"></code>
 
 <!--
 **dhvaneshshah97/dhvaneshshah97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

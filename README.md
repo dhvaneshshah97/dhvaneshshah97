@@ -4,7 +4,7 @@
 
 ## About me 😄
 
-I'm Dhvanesh Shah, a CS Grad student at San Diego State University and an aspirant Software Development Engineer. I have strong fundamentals of CS and have an expertise in Problem-Solving. My Favourite tool for Problem-Solving is Python. Besides, I have experience in MERN Stack and Mobile development with Flutter and React-Native. 
+I'm Dhvanesh Shah, a CS Grad student at San Diego State University and an aspiring Software Development Engineer. I have strong fundamentals of CS and have an expertise in Problem-Solving. My Favourite tool for Problem-Solving is Python. Besides, I have experience in MERN Stack and Mobile development with Flutter and React-Native. 
 
 * 🔭 I’m currently working on my project [Blog App with Django](https://github.com/dhvaneshshah97/Blog_App_Django)
 * 🌱 I’m currently learning Flutter & Django

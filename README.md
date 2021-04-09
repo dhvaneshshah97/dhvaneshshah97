@@ -4,10 +4,10 @@
 
 ## About me 😄
 
-I'm Dhvanesh Shah, a CS Grad student at San Diego State University and an aspiring Software Development Engineer. I have strong fundamentals of Computer Science and have expertise in Problem-Solving. Besides, I have experience working with Web and Mobile development(Flutter and React-Native). 
+I am wrapping up my Master's degree in Computer Science from San Diego State University and graduating this May. I am a programming enthusiast and love problem-solving. I have experience working with Web and Mobile Development. I am actively seeking Full-time opportunities in Software Engineering. 
 
 * 🔭 I’m currently working on my project [Blog App with Django](https://github.com/dhvaneshshah97/Blog_App_Django)
-* 🌱 I’m currently learning Flutter & Django
+* 🌱 I'm currently sharpening my programming skills with Data Structures and Algorithms 
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhvaneshshah97/) | [E-mail](mailto:dhvaneshshah97@gmail.com)
 
 ## Stack I work with 🖥️

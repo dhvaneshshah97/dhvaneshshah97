@@ -4,7 +4,7 @@
 
 ## About me 😄
 
-I am wrapping up my Master's degree in Computer Science from San Diego State University and graduating this May. I am a programming enthusiast and love problem-solving. I have experience working with Web and Mobile Development. I am actively seeking Full-time opportunities in Software Engineering. 
+I graduated with Master's degree in Computer Science from San Diego State University in May 2021. Since then, working as an Associate Software Engineer. I am a programming enthusiast and love problem-solving. I have experience working with Web and Mobile Development.
 
 * 🌱 I'm currently sharpening my programming skills with Data Structures and Algorithms 
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dhvaneshshah97/) | [E-mail](mailto:dhvaneshshah97@gmail.com)
